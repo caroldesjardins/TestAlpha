@@ -1,2 +1,2 @@
 # TestAlpha
-For test pupose only
+For test purpose only
